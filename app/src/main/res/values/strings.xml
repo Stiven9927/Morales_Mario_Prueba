@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Morales_Mario_Prueba</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_apellido">Apellido</string>
+    <string name="hint_base">Base</string>
+    <string name="hint_exponente">Exponente</string>
+    <string name="hint_factorial">Factorial</string>
+    <string name="hint_Potencia">Potencia</string>
+
 </resources>
